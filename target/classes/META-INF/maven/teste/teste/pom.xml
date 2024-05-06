@@ -1,0 +1,26 @@
+<!DOCTYPE project SYSTEM "pom.dtd">
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>teste</groupId>
+  <artifactId>teste</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+      <dependencys>
+		  
+		  
+               
+            <dependency>
+                <groupId>org.postgresql</groupId>
+                <artifactId>postgresql</artifactId>
+                <version>42.7.3</version>
+            </dependency>
+        
+           
+		  
+		  
+	  </dependencys>
+      
+          
+        
+  
+</project>
